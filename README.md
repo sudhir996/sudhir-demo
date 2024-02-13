@@ -1,4 +1,4 @@
-# sudhir-demo
+cd# sudhir-demo
 This is my git repository.
 <br>
-Author - Sudhir
+Author - Sudhir Kumar
